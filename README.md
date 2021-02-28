@@ -2,11 +2,11 @@
 ### Step 1: Obter o Código
 #### Option 1: Git Clone
 
-	git clone {url}
+	git clone https://github.com/Luiz-Antonio-Junior/Gibimba.git
 
 #### Option 2: Download the repository
 
-    {url} 
+    https://github.com/Luiz-Antonio-Junior/Gibimba/archive/main.zip
 
 ### Step 2: Use o Composer para instalar as dependências
 
